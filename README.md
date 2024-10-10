@@ -1,4 +1,4 @@
- 💜 Hi, I’m @SuzieKatana. I work as a Senior Analyst in the South West with a focus on creating analytical products and product automation. <br>
+ 💜 Hi, I’m Suzie, I work as a Senior Analyst in the South West with a focus on creating analytical products and product automation. <br>
  🌱 I’m currently learning Python and R but T-SQL is my day one. <br>
  🙏🏼 I’m looking to collaborate on any work that requires automation and reduces duplication. I'd like to work closer with other regional analysts accross the NHS and build standardisation and best practice in to regional reporting.<br>
  📫 How to reach me. Feel free to drop me an email - suzieclegg@nhs.net or pop me message on Teams. <br>
